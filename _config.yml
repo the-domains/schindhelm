@@ -1,7 +1,7 @@
 name: SCHINDHELM
 favicon: null
-layout_spectrum: 0.9396580532193184
-typography_spectrum: 0.259910287335515
+layout_spectrum: 1
+typography_spectrum: 0.23231
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.4686768294777721
-  lightness: 0.14710543444380164
-  saturation: 0.9926174071151763
-  rhythmicContrast: 0.0902636656537652
+    - '#ffffff'
+    - '#bdb296'
+    - '#808483'
+    - '#181c1f'
+    - '#4c4e4d'
+  brandStrength: 0.25
+  lightness: 0.1875
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
